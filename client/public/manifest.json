@@ -1,0 +1,9 @@
+{
+  "name": "CarManager",
+  "short_name": "CarManager",
+  "description": "Sistema de Gestión de Vehículos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a"
+}
